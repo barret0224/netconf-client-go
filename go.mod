@@ -1,4 +1,4 @@
-module gitlabe2.ext.net.nokia.com/atthegyi/netconf-client-go
+module github.com/barret0224/netconf-client-go
 
 go 1.18
 
